@@ -11,7 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Disease Mapping -Malaria ",
-    "Healthcare access and Utilization",
+    "Healthcare access/Utilization",
     "Child Mortality"
   ]
 
