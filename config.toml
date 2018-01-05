@@ -58,8 +58,8 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "KEMRI Wellcome Trust Research Programme", url = "kemri-wellcome.org" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
+  avatar = "PMM.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  email = "pmacharia@kemri-wellcome.org"
   address = "Building 1 Room 1, Stanford University, California, 90210, USA"
   office_hours = "Monday 10:00 to 13:00 or email for appointment"
   phone = "888 888 88 88"
