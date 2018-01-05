@@ -10,21 +10,21 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Malaria epidemiology and disease mapping",
-    "Healthcare Spatial access and Utilization",
+    "Disease Mapping -Malaria ",
+    "Healthcare access and Utilization",
     "Child Mortality"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Msc in Geospatial Information Syatems and Remote Sensing"
+  institution = "Jomo Kenyatta University of Agriculture and Technology"
+  year = 2016
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Post Graduate Diploma in Health Research Methods"
+  institution = "Pwani University"
+  year = 2015
 
 [[education.courses]]
   course = "BSc in Geomatic Engineering and Geospatial Information Systems"
