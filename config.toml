@@ -55,16 +55,16 @@ defaultContentLanguageInSubdir = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "KEMRI Wellcome Trust Research Programme", url = "kemri-wellcome.org" } ]
+  organizations = [ { name = "KEMRI Wellcome Trust Research Programme", url = "http://www.kemri-wellcome.org/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "PMM.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "pmacharia@kemri-wellcome.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
-  telegram = ""
+  address = "KEMRI Wellcome Trust Research Programme, Lenana 197, off Lenana road, Second floor, Nairobi,Kenya"
+  office_hours = "Monday 8:00 to 17:00 or email for appointment"
+  phone = "+254711170493"
+  skype = "geomat123"
+  twitter = "https://twitter.com/Pete_M_M"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
