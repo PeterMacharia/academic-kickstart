@@ -10,9 +10,10 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Malaria epidemiology and disease mapping",
+    "Healthcare Spatial access and Utilization",
+    "Child Mortality"
+    "Spatial Modelling"
   ]
 
 # List your qualifications (such as academic degrees).
