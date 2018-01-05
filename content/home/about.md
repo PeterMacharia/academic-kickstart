@@ -10,24 +10,24 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Disease Mapping -Malaria ",
+    "Disease Mapping - Malaria ",
     "Healthcare access/Utilization",
     "Child Mortality"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Msc in Geospatial Information Syatems and Remote Sensing"
+  course = "Msc in GIS and Remote Sensing"
   institution = "Jomo Kenyatta University of Agriculture and Technology"
-  year = 2016
+  year = 2017
 
 [[education.courses]]
-  course = "Post Graduate Diploma in Health Research Methods"
+  course = "PgDip in Health Research Methods"
   institution = "Pwani University"
   year = 2015
 
 [[education.courses]]
-  course = "BSc in Geomatic Engineering and Geospatial Information Systems"
+  course = "BSc in Geomatic Engineering and GIS"
   institution = "Jomo Kenyatta University of Agriculture and Technology"
   year = 2013
  
