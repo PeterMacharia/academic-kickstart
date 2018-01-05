@@ -18,7 +18,7 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "Msc in GIS and Remote Sensing"
-  institution = "Jomo Kenyatta University of Agriculture and Technology"
+  institution = "Jomo Kenyatta Uni of Agriculture & Technology"
   year = 2017
 
 [[education.courses]]
@@ -28,7 +28,7 @@ weight = 5
 
 [[education.courses]]
   course = "BSc in Geomatic Engineering and GIS"
-  institution = "Jomo Kenyatta University of Agriculture and Technology"
+  institution = "Jomo Kenyatta Uni of Agriculture & Technology"
   year = 2013
  
 +++
