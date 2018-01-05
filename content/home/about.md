@@ -13,7 +13,6 @@ weight = 5
     "Malaria epidemiology and disease mapping",
     "Healthcare Spatial access and Utilization",
     "Child Mortality"
-    "Spatial Modelling"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -28,9 +27,9 @@ weight = 5
   year = 2009
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Geomatic Engineering and Geospatial Information Systems"
+  institution = "Jomo Kenyatta University of Agriculture and Technology"
+  year = 2013
  
 +++
 
